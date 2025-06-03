@@ -18,7 +18,7 @@ export const carouselData: CarouselItemType[] = [
     link: "https://cybergirllll.itch.io/asta-vs-the-demons",
   },
     {
-    image:"./public/projects/gyarugirls.png",
+    image:"./projects/gyarugirls.png",
     title: "GyaruGirls - A kawaii social network",
     date: "2024",
     description: "GyarUGirls is a social network developed in pure PHP, inspired by Japanese websites from the 2000s, Tumblr blogs, and with a touch of Twitter. The project recreates the nostalgic aesthetics and experience of retro internet culture, focusing on Japanese *gyaru* culture. It offers users a personalized space to create profiles, post updates, edit personal information, and interact with other members. The application was built using pure PHP without any frameworks, with PHP files handling features like user registration, login, profile editing, post feed, and photo uploads. The code is organized into folders such as `client`, `server`, and `docs`, and the project is available on GitHub under the MIT license. It’s ideal for those who appreciate Y2K aesthetics and want to explore a social network with a vintage, creative atmosphere.",
