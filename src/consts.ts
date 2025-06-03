@@ -1,6 +1,6 @@
 export const SITE_TITLE = "MEPBW";
 export const SITE_DESCRIPTION =
-  `Token Astro + Tailwind CSS starter featuring a sleek black-and-white terminal-inspired design, with support for RSS, sitemap, MD/MDX blog posts static content.`.trim();
+  `Frontend Developer and IT student`.trim();
 
 export const KNOWN_TECH =
   `Astro,Tailwindcss,React,Nextjs,Javascript,Typescript,SCSS,CSS,HTML,HTMX,Astro,Docker,PostgreSQL,MongoDB,PLSQL,Azure DevOps,RESTful APIs,CMS,WordPress,Figma,Postman,Vercel,Railway,Nginx`.split(
@@ -44,6 +44,6 @@ export const NAV_LINKS: Array<{ title: string; href?: string }> = [
   },
   {
     title: "Resume",
-    href: "./public/CV/CV_EN_US_Maria_Eduarda_Bastos.pdf",
+    href: "./CV/CV_EN_US_Maria_Eduarda_Bastos.pdf",
   },
 ];
