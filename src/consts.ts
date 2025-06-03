@@ -28,7 +28,7 @@ export const NAV_LINKS: Array<{ title: string; href?: string }> = [
   },
   {
     title: "Github",
-    href: "//github.com/" + GITHUB_USERNAME,
+    href: "//" + GITHUB_USERNAME,
   },
   {
     title: "Linkedin",
