@@ -3,7 +3,7 @@ export const SITE_DESCRIPTION =
   `Frontend Developer and IT student`.trim();
 
 export const KNOWN_TECH =
-  `Astro,Tailwindcss,React,Nextjs,Javascript,Typescript,SCSS,CSS,HTML,HTMX,Astro,Docker,PostgreSQL,MongoDB,PLSQL,Azure DevOps,RESTful APIs,CMS,WordPress,Figma,Postman,Vercel,Railway,Nginx`.split(
+  `Astro,Tailwindcss,React,Nextjs,Javascript,Typescript,SCSS,CSS,HTML,HTMX,WordPress,Astro,Docker,PostgreSQL,MongoDB,PLSQL,Azure DevOps,RESTful APIs,CMS,WordPress,Figma,Postman,Vercel,Railway,Nginx`.split(
     ",",
   );
 export const ABOUT_ME =
