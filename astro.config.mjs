@@ -12,7 +12,7 @@ export default defineConfig({
     defaultLocale: "pt-br",
   },    
   output: "static",
-  site: "https://token-template.deno.dev",
+  site: "https://mepbw-aloneinthecityys-projects.vercel.app/",
   integrations: [mdx(), sitemap(), tailwind(), react()],
   markdown: {
     shikiConfig: {
