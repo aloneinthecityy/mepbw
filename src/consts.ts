@@ -33,9 +33,5 @@ export const NAV_LINKS: Array<{ title: string; href?: string }> = [
   {
     title: "Linkedin",
     href: "//linkedin.com/in/maria-eduarda-pinheiro-bastos/",
-  },
-  {
-    title: "Resume",
-    href: "./CV/CV_EN_US_Maria_Eduarda_Bastos.pdf",
-  },
+  }
 ];
